@@ -14,7 +14,7 @@ This is an exercise that allows me to not only practice, but to also put all tha
 - Add fourth.txt to the staging area.
 - Commit with the message "adding fourth.txt"
 - Remove the third.txt file.
-- Add this change to the staging area. (Using the command "git add . "
+- Add this change to the staging area. (Using the command "git add .)"
 - Commit with the message "removing third.txt".
 - Check out your commits using git log.
 - Change your global settings to core.pager=cat - you can read more about that here.
